@@ -1,0 +1,5 @@
+sampleID        forwardReads    reverseReads
+sample1 /home/edicontz/scratch/fastq/sample_1.R1.fastq.gz       /home/edicontz/scratch/fastq/sample_1.R2.fastq.gz
+sample2 /home/edicontz/scratch/fastq/sample_2.R1.fastq.gz       /home/edicontz/scratch/fastq/sample_2.R2.fastq.gz
+sample3 /home/edicontz/scratch/fastq/sample_3.R1.fastq.gz       /home/edicontz/scratch/fastq/sample_3.R2.fastq.gz
+sample4 /home/edicontz/scratch/fastq/sample_4.R1.fastq.gz       /home/edicontz/scratch/fastq/sample_4.R2.fastq.gz
