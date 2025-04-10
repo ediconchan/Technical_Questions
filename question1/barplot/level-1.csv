@@ -1,0 +1,5 @@
+index,Bacteria,Eukaryota,Archaea,,condition,comparison1_2,comparison1_3,comparison1_4
+sample1,83745.0,0.0,179.0,0.0,samp1,true,true,true
+sample2,98073.0,0.0,92.0,0.0,samp2,true,false,false
+sample3,64994.0,54.0,8.0,0.0,samp3,false,true,false
+sample4,109635.0,10.0,66.0,2.0,samp4,false,false,true

@@ -1,0 +1,635 @@
+# Constructed from biom file
+#OTU ID	sample1	sample2	sample3	sample4
+Bacteria;Bacillota;Clostridia;Lachnospirales;Lachnospiraceae;[Acetivibrio] ethanolgignens group	0.0	0.0002037386033718739	0.0	0.0
+Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Microbacterium	0.022293980267861398	0.0023022462181021748	0.0	0.0019231996208288898
+Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Brevibacteriaceae;Brevibacterium	0.07328058719794099	0.007691132277288239	0.0018445646827348746	0.008367285554127588
+Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Intrasporangiaceae;Aquipuribacter	0.0	0.0	0.0004150270536153468	0.0
+Bacteria;Bacillota;Bacilli;Acholeplasmatales;Acholeplasmataceae;Acholeplasma	0.0014179495734235738	0.0007742066928131207	0.0	0.0024883104098876157
+Bacteria;Bacillota;Clostridia;Lachnospirales;Lachnospiraceae;Blautia	0.011951289261712978	0.021606478887587224	0.0	0.006298250890960962
+Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides	0.016002573757208902	0.012091886110120716	0.0	0.007346440257763437
+Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Prevotellaceae;Leyella	8.340879843668081e-05	0.0	0.0	0.0006106842397892683
+Bacteria;Bacillota;Clostridia;Lachnospirales;Lachnospiraceae;Caecibacterium	0.0	0.00013243009219171802	0.0	0.0
+Bacteria;Patescibacteria;Parcubacteria;;;	0.0	0.0	0.00021519921298573537	0.0
+Bacteria;Bacteroidota;Bacteroidia;Sphingobacteriales;Sphingobacteriaceae;Sphingobacterium	0.013154759067727945	0.018906942392909895	0.000691711756025578	0.01917730806741225
+Bacteria;Bacillota;Clostridia;Lachnospirales;Lachnospiraceae;	0.003324436394833421	0.009300667243926043	0.0	0.008458432455588673
+Bacteria;Bacillota;Clostridia;Lachnospirales;Lachnospiraceae;Lachnospiraceae NK3A20 group	0.0014060340307897622	0.0016095349666378038	0.0	0.00019140849306827814
+Bacteria;Bacillota;Clostridia;Peptostreptococcales-Tissierellales;Anaerovoracaceae;[Eubacterium] brachy group	0.00025022639531004244	0.0004889726480924974	0.0	0.00012760566204551876
+Bacteria;Patescibacteria;Saccharimonadia;Saccharimonadales;Saccharimonadaceae;TM7a	0.0030384633716219436	0.0009270106453420262	0.0	0.0031445681004074267
+Bacteria;Bacillota;Clostridia;Oscillospirales;Oscillospiraceae;Intestinimonas	0.003967875697059244	0.01103244537258697	0.0008454254795868175	0.0009570424653413907
+Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Prevotellaceae;Alloprevotella	7.149325580286926e-05	0.0001731778128660928	0.0	0.0003645876058443393
+Bacteria;Bacillota;Clostridia;Clostridia vadinBB60 group;;	0.0006672703874934465	0.0027097234248459226	0.0	0.005341208425619571
+Bacteria;Bacillota;Clostridia;Oscillospirales;Oscillospiraceae;	0.0013702874028883275	0.0031783222126012325	0.0	0.0012213684795785366
+Bacteria;Bdellovibrionota;Bdellovibrionia;Bdellovibrionales;Pseudobdellovibrionaceae;Bdellovibrio	0.0	0.0	0.0001383423512051156	0.0002096378733604951
+Bacteria;Bacillota;Clostridia;Peptostreptococcales-Tissierellales;Anaerovoracaceae;Family XIII AD3011 group	0.0	0.0001528039525289054	0.0	0.00102084529636415
+Bacteria;Patescibacteria;Saccharimonadia;Saccharimonadales;;	0.000548114961155331	0.00026486018438343605	0.0015678799803246434	0.0
+Bacteria;Bacillota;Bacilli;Lactobacillales;Aerococcaceae;	0.00517134550307421	0.010380481841796975	0.0003996556812592228	0.0034635822555212237
+Bacteria;Bacteroidota;Bacteroidia;Sphingobacteriales;Sphingobacteriaceae;	0.005719460464229541	0.000601028879947028	0.0009222823413674373	0.007701913173461668
+Bacteria;Bacillota;Bacilli;Erysipelotrichales;Erysipelatoclostridiaceae;Massiliomicrobiota	0.0	0.000499159578261091	0.0	0.0
+Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Aminobacter	0.00033363519374672324	0.0	0.002090506640432858	0.0
+Bacteria;Bacillota;Negativicutes;Acidaminococcales;Acidaminococcaceae;Succiniclasticum	0.0	0.0005093465084296847	0.0	0.00024609663394492906
+Bacteria;Bacillota;Clostridia;Oscillospirales;Oscillospiraceae;Oscillospira	0.00011915542633811544	0.0031681352824326388	0.0	0.0002552113240910375
+Eukaryota;;;;;	0.0	0.0	0.0008300541072306936	9.114690146108483e-05
+Bacteria;Bacillota;Bacilli;Erysipelotrichales;Erysipelatoclostridiaceae;Longibaculum	0.0	9.168237151734325e-05	0.0	0.00019140849306827814
+Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Edaphocola	0.0012749630618178352	0.0	0.0	0.0
+Bacteria;Bacillota;Bacilli;Bacillales;Sporolactobacillaceae;	0.0	0.00021392553354046757	0.0	0.0
+Bacteria;Actinomycetota;Actinobacteria;Actinomycetales;Actinomycetaceae;Schaalia	0.0	5.093465084296847e-05	0.0016139940973930152	0.0
+Bacteria;Bacillota;Clostridia;Lachnospirales;Lachnospiraceae;[Ruminococcus] gauvreauii group	0.0018469091082407893	0.0059389802882901235	0.0	0.001394547592354598
+Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Porphyromonadaceae;Porphyromonas	0.0017635003098041085	0.0002444863240462487	0.0	0.0005559960989126175
+Bacteria;Bacillota;Clostridia;Christensenellales;Christensenellaceae;Christensenellaceae R-7 group	0.002788236976311901	0.00347374318749045	0.0	0.0016679882967378524
+Bacteria;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Pediococcus	5.957771316905772e-05	0.0001528039525289054	0.002367191342843089	0.0005013079580359665
+Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;	0.0005719460464229541	0.001629908826974991	0.0003842843089030989	0.0006197989299353768
+Bacteria;Bacillota;Bacilli;Erysipelotrichales;;	0.0	0.0	0.0	6.380283102275938e-05
+Bacteria;Bacillota;Clostridia;Clostridiales;Clostridiaceae;Clostridium	0.0011915542633811544	0.0007843936229817145	0.00021519921298573537	0.0005559960989126175
+Bacteria;Bacillota;Clostridia;Lachnospirales;Lachnospiraceae;Butyrivibrio	0.0	0.0	0.0	9.114690146108483e-05
+Bacteria;Pseudomonadota;Gammaproteobacteria;Gammaproteobacteria Incertae Sedis;Unknown Family;Acidibacter	0.0	6.112158101156217e-05	0.0001383423512051156	7.291752116886786e-05
+Bacteria;Bacillota;Bacilli;Mycoplasmatales;Mycoplasmataceae;Mycoplasmopsis	0.004146608836566417	0.000499159578261091	0.04150270536153468	0.0006289136200814853
+Bacteria;Bdellovibrionota;Bacteriovoracia;Bacteriovoracales;Bacteriovoracaceae;Bacteriovorax	0.0	0.0	0.0	3.645876058443393e-05
+Bacteria;Cyanobacteriota;Vampirivibrionia;Gastranaerophilales;Gastranaerophilaceae;Zag_111	0.0	0.000631589670452809	0.0	0.0009388130850491738
+Bacteria;Pseudomonadota;Alphaproteobacteria;Rhodospirillales;;	0.0005957771316905772	0.003565425559007793	0.0	0.00336332066391403
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Alcaligenaceae;Pusillimonas	0.00021447976740860777	8.149544134874956e-05	0.0	0.0005833401693509429
+Bacteria;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Leuconostoc	0.0	0.0	0.0004765125430398426	0.0
+Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Gulosibacter	0.0	0.0006112158101156216	0.0	0.0
+Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Saccharospirillaceae;Oceanobacter	0.0007983413564653734	0.0	0.0	0.0012395978598707536
+Bacteria;Bdellovibrionota;Oligoflexia;0319-6G20;;	0.0	0.0	0.0005533694048204624	0.0
+Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Dermabacteraceae;Brachybacterium	0.05871979409942329	0.013996842051647735	0.0	0.011967588161840438
+Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Weeksellaceae;Chryseobacterium	0.0005957771316905772	0.005236082106657159	0.0006455976389572061	0.01207696444359374
+Bacteria;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Levilactobacillus	0.0	0.0	0.0	0.0001549497324838442
+Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Micrococcaceae;Kocuria	0.0014298651160573853	0.0006214027402842154	0.003289473684210526	0.00010026159160719331
+Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotellaceae UCG-001	0.0	0.00016299088269749912	0.0	0.0005377667186204005
+Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides	0.040477098327057814	0.06985178016604696	0.0	0.05284697346713699
+Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Alteraurantiacibacter	0.0	0.0	0.0	0.00012760566204551876
+Bacteria;Bacillota;Clostridia;Lachnospirales;Lachnospiraceae;Shuttleworthia	0.0	0.0004074772067437478	0.0	0.00011849097189941027
+Bacteria;Pseudomonadota;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Brevundimonas	0.0013107096897192697	0.0016502826873121784	0.0006763403836694541	0.0002734407043832545
+Bacteria;Bacteroidota;Bacteroidia;Cytophagales;Spirosomataceae;Dyadobacter	0.0	0.0002444863240462487	0.00026131333005410725	0.001266941930309079
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Chromobacteriaceae;Aquitalea	0.00039321290691578096	0.0	0.0	0.0
+Bacteria;Bacillota;Bacilli;Erysipelotrichales;Erysipelotrichaceae;	0.0	0.00043803799724952884	0.0	0.0003281288452599054
+Bacteria;Bacillota;Clostridia;Oscillospirales;[Eubacterium] coprostanoligenes group;	0.001096229922310662	0.008709825294147608	0.0011528529267092965	0.001531267944546225
+Bacteria;Verrucomicrobiota;Verrucomicrobiia;Verrucomicrobiales;Akkermansiaceae;Akkermansia	0.0	0.0001731778128660928	0.0	5.4688140876650896e-05
+Bacteria;Bacillota;Clostridia;Oscillospirales;UCG-010;	0.0022877841856918163	0.002628227983497173	0.0	0.002588572001494809
+Bacteria;Actinomycetota;Actinobacteria;Mycobacteriales;Corynebacteriaceae;Corynebacterium	0.12076402459367999	0.0633219579279784	0.018891416625676342	0.05471548494708922
+Bacteria;Pseudomonadota;Gammaproteobacteria;Lysobacterales;Lysobacteraceae;Luteimonas	0.000988990038606358	0.0	0.0	0.004110725255894926
+Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes	0.003348267480101044	0.0045128100646870065	0.0	0.0015586120149845505
+Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Croceibacterium	0.004313426433439779	0.0	0.0	0.00396489021355719
+Bacteria;Actinomycetota;Acidimicrobiia;Acidimicrobiales;Acidimicrobiaceae;Acidiferrimicrobium	0.0	0.0	0.002336448598130841	0.0
+Bacteria;Bacillota;Negativicutes;;;	0.0	0.0	0.0	0.00010937628175330179
+Bacteria;Patescibacteria;Gracilibacteria;Absconditabacteriales (SR1);;	0.0	0.0	0.0	0.0001549497324838442
+Bacteria;Actinomycetota;Actinobacteria;Mycobacteriales;Nocardiaceae;Rhodococcus	0.00030980410847910016	0.0009881322263535883	0.00024594195769798326	0.0008567808737341974
+Bacteria;Bacillota;Bacilli;Paenibacillales;Paenibacillaceae;	4.7662170535246174e-05	0.0	0.0	0.00010026159160719331
+Bacteria;Bacillota;Clostridia;Peptostreptococcales-Tissierellales;Anaerovoracaceae;Mogibacterium	0.0006911014727610695	0.0005195334385982784	0.0	0.0005013079580359665
+Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Crocinitomicaceae;Fluviicola	0.000679185930127258	6.112158101156217e-05	0.0006148548942449582	0.0018593967898061306
+Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Flavipsychrobacter	4.7662170535246174e-05	0.0	0.0	0.0
+Bacteria;Bacillota;Bacilli;Paenibacillales;Paenibacillaceae;Paenibacillus	0.0002978885658452886	0.00025467325421484234	0.0012758239055582882	7.291752116886786e-05
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Alcaligenaceae;	0.0005719460464229541	0.00014261702236031173	0.00018445646827348745	0.000510422648182075
+Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;;	0.0	0.0	0.000691711756025578	0.0009388130850491738
+Bacteria;Bacillota;Clostridia;;;	0.0	0.0001528039525289054	0.0	0.0005013079580359665
+Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Alkalihalophilus	0.0	0.0	0.0	4.5573450730542413e-05
+Bacteria;Spirochaetota;Spirochaetia;Spirochaetales;Spirochaetaceae;Sphaerochaeta	0.0	0.0	0.0	0.0018229380292216965
+Bacteria;Actinomycetota;Coriobacteriia;Coriobacteriales;Atopobiaceae;Atopobium	0.0	0.0	0.0	5.4688140876650896e-05
+Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella	0.0021209665888184547	0.0	0.0	0.0005377667186204005
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Alcaligenaceae;Paracandidimonas	0.0	0.0009473845056792136	0.0	0.00010937628175330179
+Bacteria;Bacillota;Clostridia;Peptostreptococcales-Tissierellales;Family XI;Anaerococcus	0.0015251894571278776	0.00014261702236031173	0.0033202164289227744	0.0
+Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;	0.009842238215528334	0.0056537462435695	0.0014910231185440235	0.006143301158477117
+Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Micrococcaceae;Arthrobacter	0.0	0.0	0.0	0.0003190141551137969
+Bacteria;Bacillota;Clostridia;Lachnospirales;Lachnospiraceae;Catenibacillus	0.0006315237595920118	0.0029134620282177965	0.0	0.0006653723806659193
+Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Hyphomicrobiaceae;Hyphomicrobium	0.0	0.0	0.00023057058534185933	0.0
+Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium	0.00021447976740860777	0.0	0.00032279881947860304	0.00010026159160719331
+Bacteria;Actinomycetota;Coriobacteriia;Coriobacteriales;;	0.0	0.0002954209748892171	0.0	0.0
+Bacteria;Bacteroidota;Bacteroidia;Cytophagales;Spirosomataceae;Sandaracinomonas	9.532434107049235e-05	0.0	0.0009069109690113133	0.0
+Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Beijerinckiaceae;Methylobacterium	0.0007745102711977503	0.0004176641369123415	0.0066250614854894245	0.00040104636642877324
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Sutterellaceae;Parasutterella	0.00014298651160573852	0.0028421535170376406	0.0	0.0005195373383281835
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Neisseriaceae;	0.00023831085267623088	0.00019355167320328018	0.0012758239055582882	0.00013672035219162724
+Bacteria;Bacillota;Bacilli;Lactobacillales;Carnobacteriaceae;Desemzia	0.0	0.0	0.0007224545007378259	0.0
+Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Prevotellaceae;Xylanibacter	0.00013107096897192698	0.0008251413436560892	0.0	0.0008476661835880889
+Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotellaceae UCG-003	0.0012392164339164007	0.0008557021341618703	0.0	0.005341208425619571
+Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium	0.008066822363090415	0.0024244893801252995	0.0015217658632562716	0.011530083034827231
+Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Vibrionaceae;Vibrio	0.0	0.0	0.0	0.0005559960989126175
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Methylophilaceae;Pseudomethylobacillus	0.0	0.0	0.0011067388096409247	0.0002096378733604951
+Bacteria;Bacillota;Bacilli;Erysipelotrichales;Erysipelotrichaceae;Faecalicoccus	0.009592011820218294	9.168237151734325e-05	0.0	0.0
+Bacteria;Bacillota;Clostridia;Clostridia UCG-014;;	0.0023473618988608743	0.010176743238425101	0.0010759960649286769	0.003317747213183488
+Bacteria;Bacillota;Negativicutes;Veillonellales-Selenomonadales;Veillonellaceae;Dialister	0.0	8.149544134874956e-05	0.0	3.645876058443393e-05
+Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Muribaculaceae;Muribaculum	0.0	0.0	0.0	5.4688140876650896e-05
+Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Muribaculaceae;	0.00011915542633811544	0.0011307492487139	0.0003689129365469749	0.007583422201562258
+Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Alteromonadaceae;Rheinheimera	0.0	0.0	0.0	0.00043750512701320717
+Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Marinifilaceae;Butyricimonas	0.0007149325580286926	0.0020170121733815516	0.0	0.0013489741416240555
+Bacteria;Bacillota;Clostridia;Lachnospirales;Lachnospiraceae;Lachnoclostridium	0.0	0.0	0.0	0.00010026159160719331
+Bacteria;Fusobacteriota;Fusobacteriia;Fusobacteriales;Leptotrichiaceae;	0.0	0.0	0.0	6.380283102275938e-05
+Bacteria;Acidobacteriota;Acidobacteriae;Bryobacterales;Bryobacteraceae;Bryobacter	0.0008579190696344311	0.0	0.0	0.0
+Bacteria;Pseudomonadota;Alphaproteobacteria;Rhodobacterales;Paracoccaceae;Pelagivirga	0.0003217196511129117	0.0	0.0	0.0
+Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Micrococcaceae;Yaniella	0.003932129069157809	0.003066265980746702	0.0	0.001604185465715093
+Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotellaceae UCG-004	0.00017873313950717316	0.00028523404472062346	0.0	0.0003281288452599054
+Bacteria;Bacillota;Clostridia;Oscillospirales;Ruminococcaceae;Negativibacillus	0.0006911014727610695	0.000601028879947028	0.0	0.00045573450730542413
+Bacteria;Bacillota;Bacilli;Erysipelotrichales;Erysipelotrichaceae;Dielma	0.0	6.112158101156217e-05	0.0	0.0001640644226299527
+Bacteria;Bacillota;Bacilli;Erysipelotrichales;Erysipelotrichaceae;Holdemania	5.957771316905772e-05	0.0	0.0	0.00013672035219162724
+Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Aureimonas	0.0	0.00011205623185453064	0.0	0.00010937628175330179
+Bacteria;Bacillota;Bacilli;Staphylococcales;Staphylococcaceae;Jeotgalicoccus	0.0008936656975358657	0.005093465084296847	0.0	0.00010026159160719331
+Bacteria;Bacillota;Clostridia;Oscillospirales;Ruminococcaceae;Ruminococcus	0.0026809970926075974	0.0012835532012428054	0.0	0.00019140849306827814
+Bacteria;Planctomycetota;Planctomycetes;Gemmatales;Gemmataceae;Gemmata	0.0	0.0	0.001045253320216429	0.0
+Bacteria;Actinomycetota;Actinobacteria;Actinomycetales;Actinomycetaceae;Actinomyces	0.0	0.0	0.0	0.00017317911277606117
+Bacteria;Actinomycetota;Actinobacteria;Frankiales;Nakamurellaceae;Nakamurella	0.0	6.112158101156217e-05	0.00021519921298573537	0.0
+Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Brucella	0.0	0.0	0.0	8.203221131497634e-05
+Bacteria;Bacteroidota;Bacteroidia;;;	0.0	0.0010798145978709317	0.0	0.0009570424653413907
+Bacteria;Bacillota;Bacilli;Erysipelotrichales;Erysipelotrichaceae;Erysipelotrichaceae UCG-009	0.0	0.0001528039525289054	0.0	0.0
+Bacteria;Bacillota;Bacilli;Erysipelotrichales;Erysipelotrichaceae;Breznakia	0.0	0.0007436459023073397	0.0	0.00012760566204551876
+Bacteria;Bacillota;Bacilli;Lactobacillales;Streptococcaceae;Lactococcus	0.00224012201515657	0.00042785106708093513	0.19875184456468273	0.000811207423003655
+Bacteria;Bacillota;Clostridia;Monoglobales;Monoglobaceae;Monoglobus	0.00224012201515657	0.0002444863240462487	0.0	0.0009023543244647399
+Bacteria;Pseudomonadota;Alphaproteobacteria;Micavibrionales;;	0.0004408750774510271	0.0	0.0	0.00017317911277606117
+Bacteria;Bacillota;Clostridia;Oscillospirales;;	0.0	0.0001731778128660928	0.0	4.5573450730542413e-05
+Bacteria;Actinomycetota;Thermoleophilia;Gaiellales;;	0.0	4.074772067437478e-05	0.0	2.7344070438325448e-05
+Bacteria;Bacillota;Clostridia;Oscillospirales;Ruminococcaceae;Pygmaiobacter	0.0	0.0008862629246676514	0.0	0.0004192757467209902
+Bacteria;Bacillota;Bacilli;Bacillales;Planococcaceae;Lysinibacillus	0.0007864258138315619	0.0	0.0	0.0
+Bacteria;Bacillota;Clostridia;Clostridiales;Clostridiaceae;Proteiniclasticum	0.0	0.0	0.0	0.00010026159160719331
+Bacteria;Elusimicrobiota;Elusimicrobia;Elusimicrobiales;Elusimicrobiaceae;Elusimicrobium	0.0	0.0	0.0	0.00038281698613655627
+Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Prevotellaceae;	0.010140126781373623	0.08236133041308003	0.0010759960649286769	0.00948839244209893
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Hylemonella	0.0	0.00014261702236031173	0.00033817019183472703	0.0005559960989126175
+Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Idiomarinaceae;Pseudidiomarina	0.0007506791859301273	6.112158101156217e-05	0.0	0.0004283904368670987
+Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Microlunatus	0.0	9.168237151734325e-05	0.0	0.0006471430003737022
+Bacteria;Bacillota;Bacilli;Staphylococcales;Staphylococcaceae;Staphylococcus	0.019255516896239454	0.0027199103550145163	0.03907402852926709	0.006708411947535843
+Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;Halomonas	0.0018230780229731662	0.0009168237151734325	0.0011374815543531726	0.001358088831770164
+Bacteria;Bacteroidota;Bacteroidia;Sphingobacteriales;Sphingobacteriaceae;Albibacterium	0.00025022639531004244	0.002404115519788112	0.0	0.001039074676656367
+Bacteria;Actinomycetota;Coriobacteriia;Coriobacteriales;Atopobiaceae;Olsenella	0.00030980410847910016	0.000366729486069373	0.0	0.0022330990857965783
+Bacteria;Pseudomonadota;Alphaproteobacteria;Micavibrionales;Micavibrionaceae;	0.0006196082169582003	0.0	0.0	0.0
+Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Taibaiella	0.0	0.0	0.0	0.0003645876058443393
+Bacteria;Thermodesulfobacteriota;Desulfuromonadia;Bradymonadales;Incertae Sedis;SKP-2	0.0003217196511129117	0.0	0.0	0.00046484919745153264
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Comamonadaceae;	0.0023116152709594393	0.0017928997096724902	0.0005994835218888343	0.0024609663394492905
+Bacteria;Bacillota;Bacilli;Erysipelotrichales;Erysipelatoclostridiaceae;UCG-004	0.0	2.037386033718739e-05	0.0	0.000282555394529363
+Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Succinivibrionaceae;Succinivibrionaceae UCG-001	0.0	0.00025467325421484234	0.0	0.0008567808737341974
+Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Prevotellaceae;Pseudoprevotella	0.0007745102711977503	0.00023429939387765498	0.0	0.0
+Bacteria;Bacillota;Clostridia;Lachnospirales;Lachnospiraceae;Lachnospiraceae NK4A136 group	0.0005123683332538964	0.0007130851118015586	0.0	0.00034635822555212234
+Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Weeksellaceae;Weeksella	0.0054215718983842524	0.0009779452961849947	0.0	0.022485940590449626
+Bacteria;Bacillota;Clostridia;Peptostreptococcales-Tissierellales;Family XI;Peptoniphilus	0.00016681759687336162	0.00012224316202312434	0.0007993113625184456	0.005897204524532188
+Bacteria;Actinomycetota;Actinobacteria;Actinomycetales;Actinomycetaceae;Flaviflexus	0.0008817501549020542	0.0	0.0	0.0005924548594970514
+Bacteria;Pseudomonadota;Gammaproteobacteria;Lysobacterales;Lysobacteraceae;	0.002037557790381774	0.0007436459023073397	0.0	0.0023698194379882056
+Bacteria;Actinomycetota;Actinobacteria;Mycobacteriales;Nocardiaceae;Millisia	0.0	0.0001833647430346865	0.00035354156419085096	0.0
+Bacteria;Bacillota;Clostridia;Oscillospirales;Ruminococcaceae;[Eubacterium] siraeum group	0.0	0.00011205623185453064	0.0	0.00020052318321438662
+Bacteria;Bacteroidota;Bacteroidia;Cytophagales;Spirosomataceae;	0.0	0.0003157948352264045	0.0	0.0
+Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Devosiaceae;Devosia	0.002943139030551451	0.0004074772067437478	0.0010913674372848008	0.00022786725365271207
+Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Rhizobium	0.0	7.130851118015586e-05	0.0	0.0
+Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Crocinitomicaceae;Brumimicrobium	0.0	0.0	0.0	0.00038281698613655627
+Bacteria;Acidobacteriota;Vicinamibacteria;Vicinamibacterales;;	0.0	0.0	0.00012297097884899163	0.0
+Bacteria;Abditibacteriota;Abditibacteriia;Abditibacteriales;Abditibacteriaceae;Abditibacterium	0.00030980410847910016	0.0	7.685686178061978e-05	2.7344070438325448e-05
+Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Cutibacterium	0.04947333301558553	0.0075383283247593335	0.04977250368912937	0.015048353431225105
+Archaea;Methanobacteriota;Methanobacteria;Methanobacteriales;Methanobacteriaceae;Methanobrevibacter	0.002132882131452266	0.0008964498548362451	0.0	0.0006015695496431599
+Bacteria;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus	0.016062151470377962	0.008363469668415424	0.000999139203148057	0.0077474866241922105
+Bacteria;Pseudomonadota;Alphaproteobacteria;Incertae Sedis;Incertae Sedis;Hypericibacter	0.0	0.0	0.00018445646827348745	0.0
+Bacteria;Bacillota;Clostridia;Lachnospirales;Lachnospiraceae;Extibacter	0.009937562556598828	0.011287118626801814	0.0007070831283817019	0.004110725255894926
+Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;	0.0	0.0	0.0	0.0006653723806659193
+Bacteria;Pseudomonadota;Gammaproteobacteria;Lysobacterales;Lysobacteraceae;Stenotrophomonas	0.001120061007578285	0.005154586665308409	0.0	0.007783945384776644
+Bacteria;;;;;	0.0003574662790143463	0.0020577598940559262	0.00866945400885391	0.0005924548594970514
+Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Barnesiellaceae;Coprobacter	0.0005242838758877079	0.0006519635307899965	0.0	0.0
+Bacteria;Patescibacteria;ABY1;Candidatus Falkowbacteria;;	0.0	0.0	4.611411706837186e-05	0.0
+Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Segetibacter	0.0003217196511129117	0.0	0.0	0.0
+Bacteria;Bacillota;Bacilli;RF39;;	0.0008936656975358657	0.0017521519889981154	0.0	0.0011211068879713433
+Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Myroides	0.01504933034650398	0.01993582233993786	0.0	0.005833401693509429
+Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Dysgonomonadaceae;Fermentimonas	0.0	0.0	0.0	0.00030078477482157996
+Bacteria;Bacillota;Clostridia;Lachnospirales;Lachnospiraceae;Butyribacter	0.0	3.0560790505781086e-05	0.0	0.0
+Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Pseudochrobactrum	0.0017635003098041085	0.00032598176539499823	0.0	0.00162241484600731
+Bacteria;Bacillota;Clostridia;Peptostreptococcales-Tissierellales;Peptostreptococcaceae;	0.0	0.0	0.0	1.8229380292216965e-05
+Bacteria;Verrucomicrobiota;Kiritimatiellia;WCHB1-41;;	0.0	0.0004889726480924974	0.0	2.7344070438325448e-05
+Bacteria;Pseudomonadota;Gammaproteobacteria;Legionellales;Legionellaceae;Legionella	0.0	0.00012224316202312434	0.00132193802262666	0.0
+Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Succinivibrionaceae;Ruminobacter	0.0011558076354797196	0.0010390668771965569	0.0	0.0
+Bacteria;Bacillota;Clostridia;Oscillospirales;Oscillospiraceae;Colidextribacter	0.0012630475191840237	0.006896551724137931	0.0	0.0019323143109749984
+Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Cellvibrionaceae;Cellvibrio	0.000965158953338735	0.00023429939387765498	0.0007070831283817019	0.004438854101154831
+Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Luteococcus	0.0	0.00023429939387765498	0.0	0.00010937628175330179
+Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Aquirhabdus	0.0	0.0	0.0	0.00045573450730542413
+Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Paenochrobactrum	0.00177541585243792	0.001334487852085774	0.0	0.0019870024518516493
+Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Ureibacillus	0.0005242838758877079	0.0	0.0	0.0
+Bacteria;Pseudomonadota;Alphaproteobacteria;Rhodobacterales;Paracoccaceae;Rubellimicrobium	0.0	0.0	0.0	2.7344070438325448e-05
+Archaea;Halobacteriota;Methanomicrobia;Methanomicrobiales;Methanocorpusculaceae;Methanocorpusculum	0.0	4.074772067437478e-05	0.0	0.0
+Bacteria;Bacillota;Clostridia;Lachnospirales;Lachnospiraceae;Kineothrix	0.0	0.0015789741761320225	0.0	0.001303400690893513
+Bacteria;Planctomycetota;Planctomycetes;Isosphaerales;Isosphaeraceae;Tautonia	0.0006672703874934465	0.0	0.0	0.0
+Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Weizmannia	0.0	0.000499159578261091	0.0	0.0015039238741078997
+Bacteria;Actinomycetota;Actinobacteria;Bifidobacteriales;Bifidobacteriaceae;Gardnerella	0.0	0.0	0.00032279881947860304	0.0
+Bacteria;Bacillota;Clostridia;Oscillospirales;Oscillospiraceae;UCG-005	0.010473761975120347	0.020720215962919574	0.0	0.02115519582911779
+Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Rikenellaceae;Rikenellaceae RC9 gut group	0.00017873313950717316	0.008944124688025263	0.0	0.003490926325959549
+Bacteria;Pseudomonadota;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Asticcacaulis	0.0005004527906200849	0.0	0.00024594195769798326	0.0
+Bacteria;Pseudomonadota;Alphaproteobacteria;Reyranellales;Reyranellaceae;Reyranella	0.0	0.0	0.0007993113625184456	0.0
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;	0.0	0.0	0.00018445646827348745	0.0
+Bacteria;Bacillota;Clostridia;Peptostreptococcales-Tissierellales;Peptostreptococcaceae;Peptoclostridium	0.0	0.00014261702236031173	0.0	0.0
+Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Weeksellaceae;Bergeyella	0.0	0.0	0.0	0.0006744870708120278
+Bacteria;Pseudomonadota;Gammaproteobacteria;Salinisphaerales;Nevskiaceae;Solimonas	0.0	0.0	0.0	2.7344070438325448e-05
+Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Weeksellaceae;Moheibacter	0.003002716743720509	0.0005297203687668721	0.0008761682242990654	0.02060831442035128
+Bacteria;Acidobacteriota;Blastocatellia;Blastocatellales;Blastocatellaceae;Blastocatella	0.0	0.0003056079050578108	0.0	0.0
+Bacteria;Bacillota;Clostridia;Lachnospirales;Lachnospiraceae;Lachnospiraceae FCS020 group	0.0004527906200848387	0.001497478734783273	0.0	0.003190141551137969
+Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudohongiellaceae;Pseudohongiella	0.0	0.0	0.0	0.00011849097189941027
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Undibacterium	0.0	0.0	0.00010759960649286768	4.5573450730542413e-05
+Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Nocardioidaceae;Nocardioides	0.0031457032553262477	0.0003565425559007793	0.0005994835218888343	0.0012395978598707536
+Bacteria;Bacillota;Bacilli;Lactobacillales;Carnobacteriaceae;Carnobacterium	7.149325580286926e-05	0.0004889726480924974	0.0011374815543531726	0.00014583504233773572
+Bacteria;Planctomycetota;Planctomycetes;Isosphaerales;Isosphaeraceae;Singulisphaera	0.0	0.0	0.00032279881947860304	0.0
+Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Nocardioidaceae;Aeromicrobium	0.00224012201515657	0.0005297203687668721	0.0009222823413674373	0.0009388130850491738
+Bacteria;Bacillota;Bacilli;Staphylococcales;Staphylococcaceae;Nosocomiicoccus	0.0	8.149544134874956e-05	0.0007070831283817019	0.0011666803387018858
+Bacteria;Bacteroidota;Bacteroidia;Cytophagales;Hymenobacteraceae;Hymenobacter	0.0002978885658452886	0.0003056079050578108	0.00016908509591736351	4.5573450730542413e-05
+Bacteria;Actinomycetota;Actinobacteria;Micrococcales;;	0.00013107096897192698	0.0	0.0	0.00022786725365271207
+Bacteria;Chloroflexota;Gitt-GS-136;;;	0.0005838615890567657	0.0	0.0	0.0
+Bacteria;Myxococcota;Polyangiia;Haliangiales;Haliangiaceae;	0.0	0.0	0.0	0.00012760566204551876
+Bacteria;Bdellovibrionota;Bacteriovoracia;Bacteriovoracales;Bacteriovoracaceae;Peredibacter	0.0012868786044516467	0.0	0.0	0.0035456144668362
+Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;;	0.0008817501549020542	0.0005297203687668721	0.0	9.114690146108483e-05
+Bacteria;Bacillota;Clostridia;Peptostreptococcales-Tissierellales;Peptostreptococcaceae;Peptostreptococcus	0.0019422334493112816	0.0008455152039932766	0.0	0.00011849097189941027
+Bacteria;Actinomycetota;Actinobacteria;Actinomycetales;Actinomycetaceae;	0.0	0.0	0.0	0.00011849097189941027
+Bacteria;Bacillota;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus	0.003157618797960059	0.001497478734783273	0.04137973438268568	0.0010664187470946925
+Bacteria;Bdellovibrionota;Bdellovibrionia;Bdellovibrionales;Pseudobdellovibrionaceae;OM27 clade	0.0	9.168237151734325e-05	0.0	0.0
+Bacteria;Pseudomonadota;Alphaproteobacteria;Acetobacterales;Acetobacteraceae;Acidocella	5.957771316905772e-05	0.0	0.0	0.0
+;;;;;	0.0	0.0	0.0	1.8229380292216965e-05
+Bacteria;Bacillota;Clostridia;Oscillospirales;Butyricicoccaceae;Agathobaculum	0.0008817501549020542	0.001966077522538583	0.0	0.0018138233390755881
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Alcaligenaceae;Saccharedens	0.0	0.0	9.222823413674372e-05	0.0
+Bacteria;Myxococcota;Polyangiia;Polyangiales;Sandaracinaceae;	0.0	0.0	0.00024594195769798326	0.00017317911277606117
+Bacteria;Cyanobacteriota;Vampirivibrionia;Gastranaerophilales;Gastranaerophilaceae;	0.0	0.001069627667702338	0.0	0.00014583504233773572
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Polynucleobacter	0.00026214193794385396	0.0	0.0006455976389572061	0.0
+Bacteria;Bacillota;Clostridia;Lachnospirales;Lachnospiraceae;Lachnospiraceae UCG-009	0.0	0.00043803799724952884	0.0	0.0
+Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Pseudaminobacter	0.0	0.0	0.0002920560747663551	0.0
+Bacteria;Bacillota;Bacilli;Bacillales;Planococcaceae;Savagea	0.0019184023640436585	0.00025467325421484234	0.0	0.0
+Bacteria;Bacillota;Clostridia;Oscillospirales;Ruminococcaceae;Fournierella	0.008519612983175254	0.0007130851118015586	0.0	0.0
+Bacteria;Bacillota;Clostridia;Lachnospirales;Lachnospiraceae;Acetitomaculum	0.0	0.0014567310141088982	0.0	0.0003737022959904478
+Bacteria;Bacillota;Clostridia;Oscillospirales;Ruminococcaceae;	0.0014417806586911968	0.0025772933326542046	0.0	0.001886740860244456
+Bacteria;Actinomycetota;Actinobacteria;Bifidobacteriales;Bifidobacteriaceae;Pseudoscardovia	0.0	4.074772067437478e-05	0.0	0.0
+Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Aequorivita	0.0003217196511129117	0.0	0.0	0.00010937628175330179
+Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas	0.020494733330155855	0.07973310242958284	0.003919699950811609	0.015795758023206
+Bacteria;Thermodesulfobacteriota;Desulfuromonadia;Bradymonadales;;	0.0002978885658452886	3.0560790505781086e-05	0.0	0.003089879959530776
+Bacteria;Bacillota;Clostridia;Lachnospirales;Lachnospiraceae;[Eubacterium] ruminantium group	0.00020256422477479624	0.0	0.0	0.0
+Bacteria;Bacillota;Negativicutes;Acidaminococcales;Acidaminococcaceae;Acidaminococcus	0.0	0.00012224316202312434	0.0	0.0
+Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Dysgonomonadaceae;Proteiniphilum	0.0	7.130851118015586e-05	0.0	0.0004466198171593157
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Sutterellaceae;Sutterella	0.002788236976311901	0.006703000050934651	0.0	0.0006015695496431599
+Bacteria;Bacillota;Bacilli;Lactobacillales;Carnobacteriaceae;Atopostipes	0.001096229922310662	0.0008149544134874955	0.0	0.001111992197825235
+Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Huakuichenia	0.0	8.149544134874956e-05	0.0	0.00019140849306827814
+Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Cnuella	0.0016681759687336162	0.0	0.0	0.0
+Bacteria;Actinomycetota;Acidimicrobiia;Microtrichales;Ilumatobacteraceae;CL500-29 marine group	0.0	0.0	0.00026131333005410725	0.0
+Bacteria;Actinomycetota;Actinobacteria;Mycobacteriales;Mycobacteriaceae;Mycobacterium	0.0005004527906200849	0.0	0.0011682242990654205	0.0
+Bacteria;Planctomycetota;Planctomycetes;Gemmatales;Gemmataceae;	0.0	0.0	0.0007993113625184456	0.0
+Bacteria;Bacillota;Clostridia;Peptostreptococcales-Tissierellales;Anaerovoracaceae;	7.149325580286926e-05	0.0003565425559007793	0.0	0.00010937628175330179
+Bacteria;Bacillota;Clostridia;Peptostreptococcales-Tissierellales;Peptostreptococcaceae;Romboutsia	0.00040512844954959247	0.0011816838995568684	0.0	0.0015677267051306591
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Caldimonas	0.0001906486821409847	0.0	0.0	0.0
+Bacteria;Actinomycetota;Actinobacteria;Mycobacteriales;Corynebacteriaceae;Lawsonella	0.0010366522091416043	0.00027504711455202975	0.0007070831283817019	0.00012760566204551876
+Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;	0.0003812973642819694	0.0008760759944990577	0.001383423512051156	0.00324482969201462
+Bacteria;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Weissella	0.000679185930127258	0.001629908826974991	0.0003074274471224791	0.0014583504233773572
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Alcaligenaceae;Pigmentiphaga	0.00039321290691578096	0.00010186930168593694	0.0	0.00038281698613655627
+Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Demequinaceae;	0.0013702874028883275	0.008455152039932766	0.0005533694048204624	0.0017226764376145033
+Bacteria;Bacillota;Clostridia;Peptostreptococcales-Tissierellales;Family XI;Tissierella	0.0	0.0	0.00032279881947860304	0.0003281288452599054
+Bacteria;Pseudomonadota;Alphaproteobacteria;Parvibaculales;Parvibaculaceae;Parvibaculum	0.0	0.0	0.0	9.114690146108483e-05
+Bacteria;Bacillota;Clostridia;Lachnospirales;Lachnospiraceae;Enterocloster	0.0025260950383680474	0.0004889726480924974	0.0	6.380283102275938e-05
+Bacteria;Actinomycetota;Actinobacteria;Mycobacteriales;Dietziaceae;Dietzia	0.015573614222391688	0.008495899760607141	0.00024594195769798326	0.008084730159598225
+Bacteria;Bacillota;Clostridia;Oscillospirales;Oscillospiraceae;Oscillibacter	0.0006553548448596349	0.0009779452961849947	0.0	0.0014492357332312488
+Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Capnocytophaga	0.0010366522091416043	0.0001528039525289054	0.0003996556812592228	0.0
+Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter	0.01991087174109909	0.055875311974736414	0.009207452041318249	0.08550490826064368
+Bacteria;Bacillota;Bacilli;Aneurinibacillales;Aneurinibacillaceae;Aneurinibacillus	0.0	0.0	0.0016293654697491391	0.0
+Bacteria;Candidatus Eremiobacterota;Eremiobacteria;;;	0.0	0.0	0.00033817019183472703	0.0
+Bacteria;Sumerlaeota;Sumerlaeia;Sumerlaeales;Sumerlaeaceae;Sumerlaea	0.00040512844954959247	0.0	0.0	0.00014583504233773572
+Bacteria;Bacillota;Bacilli;Erysipelotrichales;Erysipelotrichaceae;Erysipelothrix	0.0004527906200848387	0.001171496969388275	0.00021519921298573537	0.0009935012259258246
+Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Oblitimonas	0.014441637672179592	0.0010492538073651504	0.0	0.006152415848623226
+Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Weeksellaceae;Cloacibacterium	0.0	0.00023429939387765498	0.0	0.0
+Bacteria;Pseudomonadota;Alphaproteobacteria;Rhodobacterales;Paracoccaceae;Ketogulonicigenium	0.0	0.00019355167320328018	0.0	0.0
+Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Mariniflexile	0.0	6.112158101156217e-05	0.0	0.0
+Bacteria;Pseudomonadota;Alphaproteobacteria;Defluviicoccales;;	0.0	0.0	0.00016908509591736351	0.0
+Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;	0.0008698346122682427	0.0003463556257321856	0.0	0.00017317911277606117
+Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;;	0.0	0.0	0.0	0.0011757950288479944
+Bacteria;Bacillota;Clostridia;Oscillospirales;Ruminococcaceae;Gemmiger	0.0021447976740860777	0.001466917944277492	0.0	0.0001640644226299527
+Bacteria;Bacillota;Bacilli;Lactobacillales;Aerococcaceae;Aerococcus	0.017182212477956246	0.008322721947741049	0.0	0.022859642886440077
+Bacteria;Bacillota;Clostridia;Peptococcales;Peptococcaceae;	0.0	0.0008149544134874955	0.0	0.0006927164511042447
+Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Psychrobacter	0.012833039416615033	0.014343197677379921	0.0	0.015066582811517322
+Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Beijerinckiaceae;Bosea	0.0	0.0	0.0012758239055582882	0.0
+Bacteria;Pseudomonadota;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;	0.0	0.00010186930168593694	0.0002920560747663551	0.0
+Bacteria;Bacillota;Clostridia;Oscillospirales;Oscillospiraceae;NK4A214 group	0.0004647061627186502	0.00046859878775530996	0.0	0.0001640644226299527
+Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Gelidibacter	2.3831085267623087e-05	0.0003056079050578108	0.0	0.0
+Bacteria;Bacillota;Bacilli;Erysipelotrichales;Erysipelotrichaceae;Erysipelotrichaceae UCG-006	0.0	7.130851118015586e-05	0.0	4.5573450730542413e-05
+Bacteria;Pseudomonadota;Alphaproteobacteria;Rhodobacterales;Paracoccaceae;Paracoccus	0.0020018111624803396	0.007752253858299802	0.0005226266601082145	0.0034635822555212237
+Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Hyphomicrobiales Incertae Sedis;Phreatobacter	0.0	0.0	0.0021827348745696016	0.00013672035219162724
+Bacteria;Actinomycetota;Coriobacteriia;Coriobacteriales;Eggerthellaceae;Denitrobacterium	0.0	0.0003157948352264045	0.0	0.0
+Bacteria;Bacillota;Bacilli;Mycoplasmatales;Mycoplasmataceae;Mycoplasma	0.0	0.0	0.01375737825873094	0.014437669191435838
+Bacteria;Armatimonadota;;;;	0.0	0.0	0.00010759960649286768	0.0
+Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonas	0.002430770697297555	0.0037793510925482605	0.004719011313330054	0.0008476661835880889
+Bacteria;Pseudomonadota;Alphaproteobacteria;Micropepsales;Micropepsaceae;	0.0	0.00013243009219171802	0.0	0.0
+Bacteria;Bacillota;Bacilli;Lactobacillales;;	0.0	0.0	0.0	9.114690146108483e-05
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Hydrogenophilaceae;Tepidiphilus	0.00023831085267623088	0.0	0.0	0.0
+Bacteria;Bacillota;Clostridia;Oscillospirales;Ruminococcaceae;Angelakisella	0.0	4.074772067437478e-05	0.0	0.00024609663394492906
+Bacteria;Bacillota;Bacilli;Lactobacillales;Carnobacteriaceae;Lacticigenium	0.0	0.0	0.0	0.00012760566204551876
+Bacteria;Verrucomicrobiota;Verrucomicrobiia;Verrucomicrobiales;Verrucomicrobiaceae;Verrucomicrobium	0.0	0.00028523404472062346	0.0	9.114690146108483e-05
+Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Bogoriellaceae;Georgenia	0.0005004527906200849	0.0	0.0	9.114690146108483e-05
+Bacteria;Bacillota;Clostridia;Oscillospirales;Butyricicoccaceae;UCG-009	0.0	0.00032598176539499823	0.0	0.00020052318321438662
+Bacteria;Actinomycetota;Acidimicrobiia;Microtrichales;;	0.0	0.0	0.0011835956714215444	0.0
+Bacteria;Pseudomonadota;Gammaproteobacteria;Lysobacterales;Lysobacteraceae;Pseudoxanthomonas	0.0014775272865926315	0.0	0.0	0.0
+Bacteria;Pseudomonadota;Gammaproteobacteria;Cardiobacteriales;Wohlfahrtiimonadaceae;Ignatzschineria	0.00030980410847910016	9.168237151734325e-05	0.0	0.00014583504233773572
+Bacteria;Spirochaetota;Spirochaetia;Spirochaetales;Spirochaetaceae;Treponema	0.000988990038606358	0.00045841185758671625	0.0	0.00035547291569823085
+Bacteria;Pseudomonadota;Alphaproteobacteria;Rhodobacterales;Paracoccaceae;	0.0014179495734235738	0.00021392553354046757	0.0	0.0015403826346923337
+Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;37-13;	0.0	0.0	0.0	0.00022786725365271207
+Bacteria;Bacillota;Clostridia;Peptostreptococcales-Tissierellales;Family XI;Helcococcus	0.0	0.0	0.027253443187407772	0.012104308514032066
+Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Rikenellaceae;dgA-11 gut group	0.0002978885658452886	0.0	0.0	0.0
+Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudohongiellaceae;BIyi10	0.00033363519374672324	0.0	0.0	0.00022786725365271207
+Bacteria;Bacillota;Clostridia;Lachnospirales;Lachnospiraceae;Anaerobutyricum	0.00015490205423955008	7.130851118015586e-05	0.0	0.00014583504233773572
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Alcaligenaceae;Pusillibacter	0.0004408750774510271	0.0	0.0	0.0026523748325175686
+Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Cellvibrionaceae;	0.000988990038606358	0.0002444863240462487	0.0007531972454500738	0.0015859560854228761
+Bacteria;Bacillota;Bacilli;Izemoplasmatales;;	0.0	2.037386033718739e-05	0.000691711756025578	0.0003281288452599054
+Bacteria;Fusobacteriota;Fusobacteriia;Fusobacteriales;Fusobacteriaceae;Fusobacterium	0.004337257518707402	0.0036876687210309175	0.0	0.07791237136893531
+Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium	0.00014298651160573852	0.0	0.0005533694048204624	0.0
+Bacteria;Actinomycetota;Actinobacteria;Frankiales;;	0.0	4.074772067437478e-05	0.0	0.0
+Bacteria;Fusobacteriota;Fusobacteriia;Fusobacteriales;Fusobacteriaceae;	0.0	0.0	0.0	3.645876058443393e-05
+Bacteria;Verrucomicrobiota;Verrucomicrobiia;Verrucomicrobiales;Rubritaleaceae;Luteolibacter	0.0	7.130851118015586e-05	0.0002920560747663551	0.0003098994649676884
+Bacteria;Bacillota;Clostridia;Oscillospirales;Ruminococcaceae;Faecalibacterium	0.02053047995805729	0.025783120256710642	0.0010913674372848008	0.0030716505792385586
+Bacteria;Bacillota;Bacilli;Bacillales;;	0.0	0.0	0.0003074274471224791	0.0
+Bacteria;Pseudomonadota;Alphaproteobacteria;Acetobacterales;Acetobacteraceae;Roseomonas	0.0	0.0	0.00044576979832759467	2.7344070438325448e-05
+Bacteria;Bacillota;Bacilli;Lactobacillales;Carnobacteriaceae;Dolosigranulum	0.0	0.0	0.00010759960649286768	0.0
+Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Micrococcaceae;Nesterenkonia	0.0	0.0	0.00043039842597147074	0.0
+Bacteria;Actinomycetota;Actinobacteria;Frankiales;Sporichthyaceae;Candidatus Planktophila	0.0	0.0	0.00046114117068371866	0.0
+Bacteria;Bacillota;Clostridia;Lachnospirales;Lachnospiraceae;Lachnospiraceae UCG-010	0.004611314999285067	0.0034533693271532623	0.0	0.001850282099660022
+Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Saprospiraceae;	0.0	0.0	0.0	0.00019140849306827814
+Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Pasteurellaceae;Gallibacterium	0.0	0.0	0.0	7.291752116886786e-05
+Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Marinobacteraceae;Marinobacter	0.0007745102711977503	0.0	0.0	0.0
+Bacteria;Bacillota;Negativicutes;Veillonellales-Selenomonadales;Veillonellaceae;Veillonella	0.004825794766693675	7.130851118015586e-05	0.0005994835218888343	8.203221131497634e-05
+Bacteria;Gemmatimonadota;Gemmatimonadia;Gemmatimonadales;Gemmatimonadaceae;Roseisolibacter	0.0001906486821409847	0.0	0.0	0.0
+Bacteria;Bacillota;Clostridia;Lachnospirales;Lachnospiraceae;Faecalimonas	0.0	0.0010186930168593694	0.0	0.00023698194379882055
+Bacteria;Bacteroidota;Bacteroidia;Cytophagales;Hymenobacteraceae;Adhaeribacter	0.0002978885658452886	0.0	0.0	0.000510422648182075
+Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Xanthobacteraceae;Bradyrhizobium	0.0003217196511129117	0.00032598176539499823	0.08466551893753074	0.0
+Bacteria;Bacillota;Clostridia;Lachnospirales;Lachnospiraceae;Mediterraneibacter	0.001977980077212716	0.009066367850048388	0.0	0.0012213684795785366
+Bacteria;Bacillota;Clostridia;Lachnospirales;Lachnospiraceae;Roseburia	0.0013702874028883275	0.0015789741761320225	0.0	0.001868511479952239
+Bacteria;Planctomycetota;Planctomycetes;Pirellulales;Pirellulaceae;Roseimaritima	0.00017873313950717316	0.0	0.0	3.645876058443393e-05
+Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Yersiniaceae;Yersinia	0.0006196082169582003	0.00023429939387765498	0.0	0.0003737022959904478
+Bacteria;Bacteroidota;Bacteroidia;Cytophagales;Spirosomataceae;Emticicia	0.0	0.0	0.0	0.00018229380292216965
+Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;	0.0020018111624803396	0.000366729486069373	0.0	0.004429739411008723
+Bacteria;Bacillota;Clostridia;Eubacteriales;Alkalibacteraceae;Alkalibacter	0.0	0.00013243009219171802	0.0	0.0
+Bacteria;Chlamydiota;Chlamydiia;Chlamydiales;Parachlamydiaceae;Neochlamydia	0.0	0.0	0.0003074274471224791	0.0
+Bacteria;Bacillota;Negativicutes;Veillonellales-Selenomonadales;;	0.0	6.112158101156217e-05	0.0	6.380283102275938e-05
+Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Dermacoccaceae;Dermacoccus	0.0014656117439588198	9.168237151734325e-05	0.0017830791933103787	0.0011028775076791265
+Bacteria;Pseudomonadota;Alphaproteobacteria;;;	0.00026214193794385396	0.0	0.0	0.0007656339722731125
+Bacteria;Bacillota;Bacilli;Lactobacillales;Listeriaceae;Listeria	0.00030980410847910016	0.0	0.0	0.0
+Bacteria;Pseudomonadota;Gammaproteobacteria;R7C24;;	9.532434107049235e-05	0.0	0.0	0.0
+Bacteria;Bacteroidota;Bacteroidia;Cytophagales;MWH-CFBk5;	0.0	0.0	0.0	5.4688140876650896e-05
+Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Enhydrobacter	0.0010723988370430388	0.0002037386033718739	0.0013526807673389081	0.0003919316762826648
+Bacteria;Actinomycetota;Actinobacteria;Mycobacteriales;Nocardiaceae;Williamsia	0.0	0.0001528039525289054	0.00139879488440728	0.0
+Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Prevotellaceae;Hoylesella	0.0	0.00019355167320328018	0.0	6.380283102275938e-05
+Bacteria;Myxococcota;Myxococcia;Myxococcales;Myxococcaceae;P3OB-42	0.0	0.00013243009219171802	0.0	0.0
+Bacteria;Pseudomonadota;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Caulobacter	0.0004527906200848387	0.0	0.0	1.8229380292216965e-05
+Bacteria;Bacillota;Bacilli;Lactobacillales;Carnobacteriaceae;Alloiococcus	0.0003693818216481579	0.0	0.0	5.4688140876650896e-05
+Bacteria;Bacteroidota;Bacteroidia;Cytophagales;Cytophagaceae;	0.0014775272865926315	0.0	0.0	0.0
+Bacteria;Fusobacteriota;Fusobacteriia;Fusobacteriales;Leptotrichiaceae;Caviibacter	0.0022639531004241932	0.0	0.0	0.046585181336760456
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Neisseriaceae;Vitreoscilla	0.0	0.0	0.0	6.380283102275938e-05
+Bacteria;Bacillota;Clostridia;Lachnospirales;Lachnospiraceae;Moryella	0.0	0.0	0.0	4.5573450730542413e-05
+Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Niabella	0.0	0.0	0.0	0.00018229380292216965
+Bacteria;Bacillota;Bacilli;Erysipelotrichales;Erysipelatoclostridiaceae;Kandleria	0.0	0.0001731778128660928	0.0	0.0
+Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Crocinitomicaceae;	0.00022639531004241934	0.0	0.0	0.0
+Bacteria;Bacillota;Clostridia;Lachnospirales;Lachnospiraceae;GCA-900066575	0.0	0.0012428054805684308	0.0	0.0002552113240910375
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Lautropia	0.0006434393022258234	3.0560790505781086e-05	0.00026131333005410725	0.0
+Bacteria;Bacillota;Negativicutes;Acidaminococcales;Acidaminococcaceae;Phascolarctobacterium	0.0006672703874934465	0.009443284266286354	0.0	0.0018593967898061306
+Bacteria;Bacillota;Clostridia;Lachnospirales;Lachnospiraceae;Lachnospiraceae UCG-004	0.00021447976740860777	0.006030662659807467	0.0	0.0008203221131497635
+Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Moraxella	0.0022639531004241932	0.0007232720419701522	0.0	0.0024883104098876157
+Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;;	0.0011677231781135314	9.168237151734325e-05	0.0	0.00030078477482157996
+Bacteria;Bacillota;Clostridia;Eubacteriales;Eubacteriaceae;Pseudoramibacter	0.0	8.149544134874956e-05	0.0	6.380283102275938e-05
+Bacteria;Myxococcota;Polyangiia;Polyangiales;BIrii41;	0.0001906486821409847	0.0	0.0	0.0
+Bacteria;Deinococcota;Deinococci;Deinococcales;Deinococcaceae;Deinococcus	0.00023831085267623088	0.00012224316202312434	0.0	0.00010937628175330179
+Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Succinivibrionaceae;Succinivibrio	0.0	0.0	0.0	0.001130221578117452
+Bacteria;Bacillota;Clostridia;Lachnospirales;Lachnospiraceae;[Eubacterium] xylanophilum group	0.0	0.0001528039525289054	0.0	0.0
+Bacteria;Bacillota;Bacilli;Erysipelotrichales;Erysipelotrichaceae;Anaerorhabdus	0.0	9.168237151734325e-05	0.0	0.0
+Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Marinifilaceae;Odoribacter	0.0012392164339164007	0.009463658126623541	0.0	0.0031992562412840775
+Bacteria;Cyanobacteriota;Sericytochromatia;;;	0.0	0.0	0.0	0.00030078477482157996
+Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Amnibacterium	0.0	8.149544134874956e-05	0.0	0.0
+Bacteria;Planctomycetota;Planctomycetes;Pirellulales;Pirellulaceae;Pir4 lineage	0.0	0.0	0.000691711756025578	0.0
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Hydrogenophaga	0.00023831085267623088	0.00025467325421484234	0.0	0.0
+Bacteria;Actinomycetota;Actinobacteria;Frankiales;Frankiaceae;Jatrophihabitans	0.0	0.0	0.0007993113625184456	0.0
+Bacteria;Thermodesulfobacteriota;Desulfovibrionia;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio	0.0	0.0	0.0	0.0006289136200814853
+Bacteria;Bacillota;Bacilli;Erysipelotrichales;Erysipelotrichaceae;Catenisphaera	0.00022639531004241934	3.0560790505781086e-05	0.0	5.4688140876650896e-05
+Bacteria;Patescibacteria;Saccharimonadia;Saccharimonadales;Saccharimonadaceae;TM7x	0.0007745102711977503	0.0	0.0	0.0008750102540264143
+Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Xanthobacteraceae;	5.957771316905772e-05	0.0	0.0005994835218888343	0.0
+Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingopyxis	0.00047662170535246176	0.000835328273824683	0.0015217658632562716	0.00022786725365271207
+Bacteria;Pseudomonadota;Gammaproteobacteria;Nitrosococcales;Methylophagaceae;Methylophaga	0.001334540774986893	0.0	0.0	0.002679718902955894
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Alcaligenaceae;Alcaligenes	0.002383108526762309	0.0011205623185453063	0.0	0.0002734407043832545
+Bacteria;Bacillota;Clostridia;Peptostreptococcales-Tissierellales;Peptostreptococcaceae;Paraclostridium	0.0	0.0	0.012389326119035907	0.0
+Bacteria;Bacillota;Bacilli;Bacillales;Planococcaceae;Kurthia	0.0018349935656069777	0.00038710334640656036	0.0	0.00018229380292216965
+Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Bacteroidales RF16 group;	0.0010128211238739813	0.0007130851118015586	0.0	0.0014036622825007064
+Bacteria;Deinococcota;Deinococci;Deinococcales;Trueperaceae;Truepera	0.00015490205423955008	0.0	0.00043039842597147074	0.0012942860007474045
+Bacteria;Bacteroidota;Bacteroidia;Cytophagales;Spirosomataceae;Persicitalea	0.0	0.0	0.0	0.0003919316762826648
+Bacteria;Bacillota;Clostridia;Peptostreptococcales-Tissierellales;Peptostreptococcaceae;Intestinibacter	0.0	0.0004176641369123415	0.0	0.0003281288452599054
+Bacteria;Bacillota;;;;	0.0	0.00012224316202312434	0.0	0.00011849097189941027
+Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Aeromonadaceae;	0.0	0.0	0.0	0.0001640644226299527
+Bacteria;Chlamydiota;Chlamydiia;Chlamydiales;Simkaniaceae;	0.0	0.0	0.00024594195769798326	0.0
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Curvibacter	0.0	0.0	0.0005226266601082145	0.0
+Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propioniciclava	0.0	0.0003463556257321856	0.0	0.0
+Bacteria;Verrucomicrobiota;Verrucomicrobiia;Chthoniobacterales;Chthoniobacteraceae;LD29	0.0	0.0	0.0	4.5573450730542413e-05
+Bacteria;Bacillota;Clostridia;Oscillospirales;Ruminococcaceae;Ruthenibacterium	0.0	0.00011205623185453064	0.0	0.00011849097189941027
+Bacteria;Pseudomonadota;Alphaproteobacteria;Rhodobacterales;Paracoccaceae;Gemmobacter	0.0	0.0	0.0	0.0002096378733604951
+Bacteria;Actinomycetota;Thermoleophilia;Solirubrobacterales;Solirubrobacteraceae;Patulibacter	0.0	0.0	0.0	8.203221131497634e-05
+Bacteria;Bacillota;Clostridia;Peptostreptococcales-Tissierellales;Family XI;Gallicola	0.0005600305037891426	0.0	0.0	0.0
+Bacteria;Bacillota;Negativicutes;Veillonellales-Selenomonadales;Selenomonadaceae;Anaerovibrio	0.0	0.0	0.0	0.00038281698613655627
+Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Micrococcaceae;Rothia	0.0	0.0	0.001368052139695032	0.0004921932678898581
+Bacteria;Campylobacterota;Campylobacteria;Campylobacterales;Campylobacteraceae;Campylobacter	0.0	6.112158101156217e-05	0.0	0.0
+Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Barnesiellaceae;Barnesiella	0.0	0.0017928997096724902	0.0	0.00029167008467547145
+Bacteria;Bacillota;Clostridia;Eubacteriales;Anaerofustaceae;Anaerofustis	0.0	0.00010186930168593694	0.0	0.0
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Alcaligenaceae;Paenalcaligenes	0.0010009055812401698	0.0036469210003565425	0.0	0.003946660833264973
+Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Weeksellaceae;Elizabethkingia	0.0	0.000601028879947028	0.0	0.0
+Bacteria;Chloroflexota;Dehalococcoidia;;;	0.0	0.0	0.0002766847024102312	0.0
+Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Parablastomonas	0.00010723988370430389	0.0	0.0	0.0
+Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Parageobacillus	0.00023831085267623088	0.00010186930168593694	0.001690850959173635	0.0007838633525653296
+Bacteria;Bacillota;Clostridia;Peptostreptococcales-Tissierellales;Family XI;Parvimonas	0.0	0.0	0.0	0.0037643670303428036
+Bacteria;Verrucomicrobiota;Verrucomicrobiia;Verrucomicrobiales;Verrucomicrobiaceae;Phragmitibacter	0.0	0.0	0.0	0.00018229380292216965
+Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Bogoriellaceae;Bogoriella	0.0021567132167198896	0.0	0.0	0.00030078477482157996
+Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Aeribacillus	0.0	0.0002037386033718739	0.0	0.0
+Bacteria;Bacillota;Bacilli;Erysipelotrichales;Erysipelatoclostridiaceae;Thomasclavelia	0.00208521996091702	0.0009779452961849947	0.0	8.203221131497634e-05
+Bacteria;Actinomycetota;Coriobacteriia;Coriobacteriales;Eggerthellaceae;Adlercreutzia	0.0	8.149544134874956e-05	0.0	0.0
+Bacteria;Campylobacterota;Campylobacteria;Campylobacterales;Arcobacteraceae;Arcobacter	0.0	0.0	0.0	1.8229380292216965e-05
+Bacteria;Actinomycetota;Acidimicrobiia;Actinomarinales;;	0.0	0.00025467325421484234	0.0	0.0
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Methylophilaceae;Methylobacillus	0.0	0.0	0.0	0.00020052318321438662
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Polaromonas	0.0010247366665077928	0.00042785106708093513	0.00139879488440728	0.0007018311412503532
+Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Dermatophilaceae;	0.00015490205423955008	0.00011205623185453064	0.0	4.5573450730542413e-05
+Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Perlucidibaca	0.0	0.0	7.685686178061978e-05	0.0
+Bacteria;Actinomycetota;Actinobacteria;Frankiales;Sporichthyaceae;	0.0	0.0	0.0001998278406296114	0.0
+Bacteria;Bacillota;Bacilli;Acholeplasmatales;Acholeplasmataceae;EMP-G18	0.0	9.168237151734325e-05	0.0	0.0
+Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Morganellaceae;Providencia	0.0008698346122682427	0.0007028981816329649	0.0	0.0013489741416240555
+Bacteria;Actinomycetota;Coriobacteriia;Coriobacteriales;Eggerthellaceae;Senegalimassilia	0.0	0.0007538328324759334	0.0	0.0
+Bacteria;Bacillota;Clostridia;Oscillospirales;Ruminococcaceae;Paludicola	0.0	0.0007742066928131207	0.0	0.00012760566204551876
+Bacteria;Acidobacteriota;Vicinamibacteria;Vicinamibacterales;Vicinamibacteraceae;	0.0	0.0	0.0005226266601082145	0.0
+Bacteria;Bacillota;Bacilli;Thermicanales;Thermicanaceae;Thermicanus	0.0002740574805776655	0.0	0.0	0.0
+Bacteria;Actinomycetota;Actinobacteria;Actinomycetales;;	0.0002740574805776655	0.0	0.0	0.0003190141551137969
+Bacteria;Patescibacteria;Saccharimonadia;Saccharimonadales;Saccharimonadaceae;	0.0003217196511129117	0.0	7.685686178061978e-05	0.0
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Sulfuricellaceae;	0.0	0.0	0.0	1.8229380292216965e-05
+Bacteria;Pseudomonadota;Gammaproteobacteria;Cardiobacteriales;Wohlfahrtiimonadaceae;Wohlfahrtiimonas	0.0004408750774510271	0.0	0.0	0.0
+Bacteria;Dependentiae;Babeliae;Babeliales;Vermiphilaceae;	0.0	0.0	0.0003689129365469749	0.0
+Bacteria;Bacillota;Bacilli;Brevibacillales;Brevibacillaceae;Brevibacillus	0.0	0.0	0.0	3.645876058443393e-05
+Bacteria;Bacillota;Negativicutes;Veillonellales-Selenomonadales;Veillonellaceae;Allisonella	0.0	0.0003056079050578108	0.0	0.0
+Bacteria;Chloroflexota;Chloroflexia;Thermomicrobiales;JG30-KF-CM45;	0.0007030170153948811	0.0	0.00024594195769798326	0.00018229380292216965
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Alcaligenaceae;Verticiella	0.0009532434107049235	0.0	0.0	0.0
+Bacteria;Bacillota;Clostridia;Lachnospirales;Defluviitaleaceae;Defluviitaleaceae UCG-011	0.0	0.0	0.0	0.00020052318321438662
+Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Mesorhizobium	0.0	0.0	0.0004918839153959665	8.203221131497634e-05
+Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Micrococcales Incertae Sedis;Populibacterium	0.00030980410847910016	7.130851118015586e-05	0.0	0.0
+Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Beijerinckiaceae;Methylocapsa	0.0	0.0002037386033718739	0.0	0.0
+Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Amphibacillus	0.0	0.0	0.0	3.645876058443393e-05
+Bacteria;Bacillota;Bacilli;Erysipelotrichales;Erysipelotrichaceae;Solobacterium	0.0001906486821409847	0.00011205623185453064	0.0	8.203221131497634e-05
+Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;HAW-RM37-2;	0.00486154139459511	0.009575714358478073	0.0	0.0022422137759426867
+Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Intrasporangiaceae;Fodinibacter	0.0	0.0	0.0	2.7344070438325448e-05
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Sulfuricellaceae;Ferritrophicum	0.0	0.00010186930168593694	0.0006302262666010821	0.00010026159160719331
+Bacteria;Verrucomicrobiota;Verrucomicrobiia;Verrucomicrobiales;DEV007;	0.00041704399218340404	0.0	0.0	0.0
+Bacteria;Bacillota;Clostridia;Peptostreptococcales-Tissierellales;Peptostreptococcaceae;Paeniclostridium	0.0001906486821409847	4.074772067437478e-05	0.0	0.0
+Bacteria;Bacillota;Clostridia;Oscillospirales;Ruminococcaceae;Caproiciproducens	0.0	0.0	0.0	5.4688140876650896e-05
+Bacteria;Bacillota;Clostridia;Lachnospirales;Lachnospiraceae;Marvinbryantia	0.00010723988370430389	0.0057556155452554375	0.0	0.0004466198171593157
+Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Pasteurellaceae;Bibersteinia	0.0	0.00010186930168593694	0.0	0.0006562576905198108
+Bacteria;Pseudomonadota;Alphaproteobacteria;Rhodobacterales;Paracoccaceae;Pararhodobacter	0.0	0.0	0.0	6.380283102275938e-05
+Bacteria;Bacillota;Bacilli;Bacillales;Planococcaceae;	0.0	0.0	0.0	0.00030078477482157996
+Bacteria;Actinomycetota;Acidimicrobiia;Microtrichales;Microtrichaceae;	0.0	4.074772067437478e-05	0.0	0.0
+Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Beijerinckiaceae;Chelatococcus	0.0006076926743243887	0.0	0.0	0.0
+Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;p-251-o5;	0.0	0.0001833647430346865	0.0	0.0
+Bacteria;Verrucomicrobiota;Verrucomicrobiia;Chthoniobacterales;Chthoniobacteraceae;Chthoniobacter	0.00023831085267623088	0.0	0.0	0.0
+Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Xanthobacteraceae;Ancylobacter	0.0	0.0	0.0005533694048204624	0.0
+Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Oceanobacillus	0.0	0.00028523404472062346	0.0	0.0
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Neisseriaceae;Conchiformibius	0.0	0.0	0.0	0.00020052318321438662
+Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Devosiaceae;Pelagibacterium	0.0	0.0006417766006214027	0.0	0.0004192757467209902
+Bacteria;Bacteroidota;Bacteroidia;Cytophagales;Spirosomataceae;Leadbetterella	0.0	0.0	0.0	0.00018229380292216965
+Bacteria;Bacteroidota;Bacteroidia;Cytophagales;Spirosomataceae;Nibrella	0.0	0.0	0.0005841121495327102	0.0
+Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Pasteurellaceae;Actinobacillus	0.00025022639531004244	0.0	0.0007993113625184456	0.0006289136200814853
+Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Klebsiella	0.0003693818216481579	0.015433199205419447	0.000691711756025578	0.002980503677777474
+Bacteria;Patescibacteria;Saccharimonadia;Saccharimonadales;Saccharimonadaceae;Candidatus Saccharimonas	0.0007864258138315619	4.074772067437478e-05	0.0	4.5573450730542413e-05
+Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Idiomarinaceae;Aliidiomarina	0.00022639531004241934	0.0	0.0005841121495327102	0.0
+Bacteria;Bacillota;Bacilli;Staphylococcales;Gemellaceae;Gemella	0.001096229922310662	0.0	0.0	5.4688140876650896e-05
+Bacteria;Actinomycetota;Actinobacteria;Actinomycetales;Actinomycetaceae;Trueperella	0.00034555073638053475	0.0	0.0007070831283817019	0.015403826346923336
+Bacteria;Bacillota;Bacilli;Erysipelotrichales;Erysipelatoclostridiaceae;Erysipelotrichaceae UCG-002	0.0	0.0	0.0	0.00019140849306827814
+Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;p-2534-18B5 gut group;	0.0	0.00039729027657515407	0.0	8.203221131497634e-05
+Bacteria;Cyanobacteriota;Cyanobacteriia;Cyanobacteriales;Phormidiaceae;Tychonema CCAP 1459-11B	0.00013107096897192698	0.0	0.0	0.0
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia	0.0008460035270006196	0.0005500942291040595	0.16647196261682243	0.0
+Bacteria;Bacillota;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus	0.0012749630618178352	0.001263179340905618	0.11934333497294639	0.0006562576905198108
+Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Morganellaceae;Proteus	0.0	3.0560790505781086e-05	0.0005379980324643384	0.0
+Bacteria;Cyanobacteriota;Vampirivibrionia;Gastranaerophilales;Gastranaerophilaceae;CAG-196	0.0006434393022258234	0.0004889726480924974	0.0	0.0003190141551137969
+Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Beijerinckiaceae;Camelimonas	0.0	0.0004176641369123415	0.0	5.4688140876650896e-05
+Bacteria;Patescibacteria;Gracilibacteria;Candidatus Peregrinibacteria;;	0.0	0.0	0.0	5.4688140876650896e-05
+Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Intrasporangiaceae;Knoellia	0.0021567132167198896	0.000601028879947028	0.0	0.0016133001558612016
+Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Agrococcus	0.004921119107764167	0.001232618550399837	0.001383423512051156	0.0022786725365271207
+Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Intrasporangiaceae;Arsenicicoccus	0.0	0.00016299088269749912	0.0	0.0
+Bacteria;Bacillota;Clostridia;Oscillospirales;Ruminococcaceae;Anaerofilum	0.0	3.0560790505781086e-05	0.0	0.0
+Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Rhodoluna	0.0002740574805776655	0.0	0.001029881947860305	7.291752116886786e-05
+Bacteria;Bacillota;Bacilli;Erysipelotrichales;Erysipelatoclostridiaceae;Erysipelotrichaceae UCG-003	0.0004647061627186502	0.0021901899862476443	0.0	0.0
+Bacteria;Bacillota;Clostridia;Peptostreptococcales-Tissierellales;Anaerovoracaceae;Family XIII UCG-001	0.0	0.0002444863240462487	0.0	0.0
+Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Aeromonadaceae;Aeromonas	0.0	0.00159934803646921	0.0	3.645876058443393e-05
+Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Dysgonomonadaceae;Dysgonomonas	0.0	0.0	0.0	0.0007747486624192211
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Neisseriaceae;Eikenella	0.0	0.000998319156522182	0.0	0.00040104636642877324
+Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Cellulomonadaceae;Oerskovia	0.0	0.00045841185758671625	0.0	0.000282555394529363
+Bacteria;Chlamydiota;Chlamydiia;Chlamydiales;Simkaniaceae;Ga0074140	0.0	0.0	0.00066096901131333	0.0
+Bacteria;Bacteroidota;Bacteroidia;Sphingobacteriales;Sphingobacteriaceae;Pedobacter	0.0	0.0004889726480924974	0.0	0.0003372435354060139
+Bacteria;Pseudomonadota;Alphaproteobacteria;Caulobacterales;Hyphomonadaceae;Hyphomonas	0.00010723988370430389	0.0	0.0	0.0
+Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Porticoccaceae;C1-B045	0.0	0.0	0.0	0.00030078477482157996
+Bacteria;Bacillota;Bacilli;Lactobacillales;Carnobacteriaceae;	0.0	0.00019355167320328018	0.0	0.0
+Bacteria;Bacillota;Clostridia;Lachnospirales;Lachnospiraceae;Dorea	0.002216290929888947	0.0009881322263535883	0.0	5.4688140876650896e-05
+Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Stappiaceae;	0.00041704399218340404	0.0	0.0	0.0
+Archaea;Nanoarchaeota;Nanoarchaeia;Woesearchaeales;;	0.0	0.0	0.00012297097884899163	0.0
+Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Weeksellaceae;Empedobacter	0.003765311472284448	0.0018540212906840523	0.0	0.020982016716341728
+Bacteria;Bacillota;Bacilli;Erysipelotrichales;Erysipelotrichaceae;Turicibacter	0.0011796387207473429	0.0	0.0	0.0
+Bacteria;Bacillota;Clostridia;Lachnospirales;Lachnospiraceae;[Ruminococcus] gnavus group	0.002538010581001859	0.00039729027657515407	0.0	0.0
+Bacteria;Bacillota;Clostridia;Peptostreptococcales-Tissierellales;Family XI;Finegoldia	0.00033363519374672324	0.0	0.001706222331529759	0.0
+Bacteria;Actinomycetota;Actinobacteria;Streptosporangiales;Nocardiopsidaceae;Thermobifida	0.0	0.00021392553354046757	0.0	0.0
+Bacteria;Actinomycetota;Coriobacteriia;Coriobacteriales;Atopobiaceae;Tractidigestivibacter	0.0	0.0003769164162379667	0.0	0.0
+Bacteria;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Furfurilactobacillus	0.0	0.0	0.0002920560747663551	0.0
+Bacteria;Pseudomonadota;;;;	0.00030980410847910016	0.0	0.0003689129365469749	0.0003098994649676884
+Bacteria;Bacillota;Clostridia;Oscillospirales;Ruminococcaceae;Phocea	0.0	0.00016299088269749912	0.0	0.0
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Alcaligenaceae;Oligella	0.00417043992183404	0.00012224316202312434	0.0	0.008330826793543154
+Bacteria;Actinomycetota;Actinobacteria;Frankiales;Geodermatophilaceae;Klenkia	0.0	0.0	0.00032279881947860304	0.0
+Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotellaceae NK3B31 group	0.0	0.0	0.0	0.0007018311412503532
+Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Aeromonadaceae;Oceanisphaera	0.0	0.00014261702236031173	0.0	0.0
+Bacteria;Actinomycetota;Actinobacteria;;;	0.0	0.0	0.0007070831283817019	3.645876058443393e-05
+Bacteria;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Limosilactobacillus	0.0	0.0	0.013081037875061485	0.0
+Bacteria;Patescibacteria;Gracilibacteria;JGI 0000069-P22;;	0.0	0.0	0.0	4.5573450730542413e-05
+Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Hyphomicrobiaceae;Pedomicrobium	0.0	0.0	0.0003842843089030989	0.0
+Bacteria;Actinomycetota;Thermoleophilia;Solirubrobacterales;67-14;	0.0	0.0	0.0003842843089030989	0.0
+Bacteria;Pseudomonadota;Gammaproteobacteria;Lysobacterales;Lysobacteraceae;Arenimonas	0.00022639531004241934	0.0	0.0	0.0017682498883450457
+Bacteria;Actinomycetota;Actinobacteria;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium	0.00370573375911539	0.001497478734783273	0.0	0.006006580806285491
+Bacteria;Bdellovibrionota;Bdellovibrionia;Bdellovibrionales;Pseudobdellovibrionaceae;	0.0	0.0	0.0	5.4688140876650896e-05
+Bacteria;Myxococcota;Polyangiia;Nannocystales;Nannocystaceae;Nannocystis	0.0005957771316905772	0.0001731778128660928	0.0	0.0
+Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;	0.0	0.00011205623185453064	0.0	0.0005195373383281835
+Bacteria;Bacillota;Clostridia;Lachnospirales;Lachnospiraceae;[Eubacterium] oxidoreducens group	0.0	0.00032598176539499823	0.0	0.0
+Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Shewanellaceae;Shewanella	0.0	0.0	0.0	8.203221131497634e-05
+Bacteria;Actinomycetota;Actinobacteria;Mycobacteriales;Nocardiaceae;Gordonia	0.0037772270149182595	4.074772067437478e-05	0.0003996556812592228	0.0003281288452599054
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Massilia	0.0016800915113674277	0.0007028981816329649	0.002029021151008362	0.011211068879713433
+Bacteria;Pseudomonadota;Alphaproteobacteria;Rickettsiales;SM2D12;	0.0	0.0	9.222823413674372e-05	0.0
+Bacteria;Bacillota;Clostridia;Oscillospirales;Ruminococcaceae;Candidatus Soleaferrea	0.0003574662790143463	0.0	0.0	0.0
+Bacteria;Bacillota;Bacilli;Bacillales;Planococcaceae;Domibacillus	0.00022639531004241934	0.0	0.0	0.00020052318321438662
+Bacteria;Verrucomicrobiota;Verrucomicrobiia;Opitutales;;	0.0	0.0	0.0	4.5573450730542413e-05
+Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Lederbergia	0.00023831085267623088	0.0	0.0	0.0
+Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Alteromonadaceae;Alteromonas	0.0	0.0	0.0001998278406296114	0.0
+Bacteria;Bacillota;Clostridia;Lachnospirales;Lachnospiraceae;Howardella	0.00011915542633811544	0.0	0.0	0.0
+Bacteria;Bacillota;Bacilli;Lactobacillales;Vagococcaceae;Vagococcus	0.0010485677517754158	0.0	0.0	0.0
+Bacteria;Cyanobacteriota;Vampirivibrionia;Vampirovibrionales;;	0.00010723988370430389	0.0	0.0	0.0
+Bacteria;Actinomycetota;Coriobacteriia;Coriobacteriales;Eggerthellaceae;	0.0	0.00021392553354046757	0.0	0.00011849097189941027
+Bacteria;Gemmatimonadota;Gemmatimonadia;Gemmatimonadales;Gemmatimonadaceae;	0.0	0.0	0.0	4.5573450730542413e-05
+Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Faucicola	0.0	0.00025467325421484234	0.0	7.291752116886786e-05
+Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae1;Alcanivorax	0.0016205137981983699	0.0	0.0	0.0
+Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Beutenbergiaceae;Salana	0.0	0.00042785106708093513	0.0	0.0
+Bacteria;Bacillota;Clostridia;Lachnospirales;Lachnospiraceae;Lachnospiraceae UCG-002	0.0	5.093465084296847e-05	0.0	0.0
+Bacteria;Pseudomonadota;Gammaproteobacteria;Lysobacterales;Lysobacteraceae;Xanthomonas	0.0	0.00014261702236031173	0.0	0.0
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;;	0.0	0.0	0.0003074274471224791	0.0
+Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Dermabacteraceae;Dermabacter	0.0	0.0	0.0005687407771765863	0.0
+Bacteria;Bacillota;Clostridia;Oscillospirales;Ruminococcaceae;Hydrogenoanaerobacterium	0.0003574662790143463	6.112158101156217e-05	0.0	0.0
+Bacteria;Bacteroidota;Bacteroidia;Sphingobacteriales;NS11-12 marine group;	0.0	0.0	9.222823413674372e-05	0.0
+Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Cellvibrionaceae;Aestuariicella	0.0	0.0	0.0	0.00020052318321438662
+Bacteria;Acidobacteriota;Vicinamibacteria;Vicinamibacterales;Vicinamibacteraceae;Luteitalea	0.00034555073638053475	0.0	0.0	0.0
+Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus	0.0	0.0001731778128660928	0.0007378258730939498	0.0
+Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Ellin6055	0.0005242838758877079	0.0	0.0	0.0
+Bacteria;Actinomycetota;Actinobacteria;PeM15;;	0.0	0.0	0.00015371372356123955	0.0
+Bacteria;Actinomycetota;Actinobacteria;Frankiales;Geodermatophilaceae;Blastococcus	0.0	0.00016299088269749912	0.00035354156419085096	0.0
+Bacteria;Bacillota;Bacilli;Lactobacillales;Aerococcaceae;Facklamia	0.0007506791859301273	0.002893088167880609	0.0	0.0006471430003737022
+Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;	0.004635146084552691	0.0002037386033718739	0.0	0.001039074676656367
+Bacteria;Bacillota;Bacilli;Erysipelotrichales;Erysipelotrichaceae;Faecalitalea	2.3831085267623087e-05	0.0	0.0	0.0001549497324838442
+Bacteria;Bacillota;Clostridia;Lachnospirales;Lachnospiraceae;Syntrophococcus	0.0	0.00021392553354046757	0.0	0.00017317911277606117
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Pseudazoarcus	0.0	0.0	0.0	0.0006015695496431599
+Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Pasteurellaceae;Pasteurella	0.001227300891282589	0.0008149544134874955	0.0	0.012550928331191381
+Bacteria;Bacillota;Bacilli;Mycoplasmatales;Mycoplasmataceae;Mesomycoplasma	0.003991706782326868	0.0007640197626445271	0.0	0.008567808737341974
+Bacteria;Pseudomonadota;Alphaproteobacteria;Rickettsiales;;	0.0	0.00019355167320328018	0.0	0.0
+Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Tessaracoccus	0.0	0.00010186930168593694	0.0	0.0007109458313964617
+Bacteria;Bacillota;Clostridia;Lachnospirales;Lachnospiraceae;Lachnospiraceae UCG-007	0.0	9.168237151734325e-05	0.0	0.0
+Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Prevotellaceae;Segatella	0.002740574805776655	0.002230937706922019	0.0008915395966551893	0.002078149353312734
+Bacteria;Bacillota;Bacilli;Erysipelotrichales;Erysipelotrichaceae;Allobaculum	0.0	0.0	0.0	7.291752116886786e-05
+Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Arachnia	0.0	0.0	0.0012450811608460404	0.0
+Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Planktosalinus	0.0	0.0	0.0	0.00023698194379882055
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;	0.00030980410847910016	0.0	0.0	0.0
+Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Microbacteriaceae;Leucobacter	0.022401220151565704	0.023002088320684563	0.0014756517461878996	0.006389397792422047
+Bacteria;Verrucomicrobiota;Verrucomicrobiia;Opitutales;Puniceicoccaceae;Cerasicoccus	0.00013107096897192698	0.0	0.0	0.0
+Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Metabacillus	0.0016681759687336162	0.0	0.0035661583866207574	9.114690146108483e-05
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Ralstonia	0.0	0.0	0.002274963108706345	0.0002096378733604951
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Sphaerotilus	0.0	0.0002037386033718739	0.0004918839153959665	0.00011849097189941027
+Bacteria;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;HT002	0.0030861255421571897	0.0029847705393979524	0.0	0.003582073227420634
+Bacteria;Planctomycetota;OM190;;;	0.0	0.0	0.000983767830791933	0.0
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Alcaligenaceae;Castellaniella	0.00040512844954959247	0.000733458972138746	0.0	0.0
+Bacteria;Bacillota;Clostridia;Peptostreptococcales-Tissierellales;Anaerovoracaceae;[Eubacterium] saphenum group	0.00025022639531004244	0.0	0.0	0.0
+Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;Marinospirillum	0.0	0.0	0.0	0.00011849097189941027
+Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Weeksellaceae;Algoriella	0.0	0.0	0.0006148548942449582	6.380283102275938e-05
+Bacteria;Planctomycetota;Planctomycetes;Isosphaerales;Isosphaeraceae;	0.0	0.0	0.0004150270536153468	0.0
+Bacteria;Bacillota;Bacilli;Bacillales;Planococcaceae;Sporosarcina	0.000679185930127258	0.0	0.0	0.0003372435354060139
+Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Weeksellaceae;Faecalibacter	0.0	0.0001833647430346865	0.0	0.0
+Bacteria;Bacillota;Clostridia;Peptostreptococcales-Tissierellales;Anaerovoracaceae;Anaerovorax	0.0	0.0006417766006214027	0.0	0.0
+Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Xanthobacteraceae;Tardiphaga	0.0	0.0	0.0013526807673389081	0.0
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Methylophilaceae;Methylophilus	9.532434107049235e-05	0.0	0.0	0.0
+Bacteria;Verrucomicrobiota;Lentisphaeria;Victivallales;Victivallaceae;Victivallis	0.0	0.0	0.0	9.114690146108483e-05
+Bacteria;Nitrospirota;Nitrospiria;Nitrospirales;Nitrospiraceae;Nitrospira	0.0	0.0	0.0003074274471224791	0.0
+Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Sediminibacterium	0.0003693818216481579	0.0	0.0	0.0
+Bacteria;Bacillota;Bacilli;Lactobacillales;Carnobacteriaceae;Jeotgalibaca	0.0026214193794385394	0.0025059848214740487	0.00015371372356123955	0.001850282099660022
+Bacteria;Bacillota;Bacilli;Bacillales;Planococcaceae;Planococcus	0.0	0.0	0.00018445646827348745	0.0
+Bacteria;Verrucomicrobiota;Lentisphaeria;Victivallales;vadinBE97;	0.0	0.0	0.0	9.114690146108483e-05
+Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;B1-7BS;	0.0	0.0	0.00032279881947860304	0.0
+Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Spongiibacteraceae;BD1-7 clade	0.00026214193794385396	0.0	0.0005533694048204624	0.0
+Bacteria;Actinomycetota;Actinobacteria;Frankiales;Sporichthyaceae;hgcI clade	0.0	0.0	0.00026131333005410725	0.0
+Bacteria;Actinomycetota;Actinobacteria;Kitasatosporales;Streptomycetaceae;Streptomyces	0.0	0.0	0.0	0.0002734407043832545
+Bacteria;Bacillota;Bacilli;Erysipelotrichales;Erysipelatoclostridiaceae;	0.0	0.0	0.0	0.0002734407043832545
+Bacteria;Actinomycetota;Coriobacteriia;Coriobacteriales;Eggerthellaceae;Paraeggerthella	0.0	0.0006214027402842154	0.0	0.0
+Bacteria;Bacteroidota;Bacteroidia;Sphingobacteriales;env.OPS 17;	0.0	0.0	0.0005379980324643384	0.0
+Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Micrococcaceae;Micrococcus	0.0006196082169582003	0.0001528039525289054	0.0007378258730939498	0.00010937628175330179
+Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Micrococcaceae;Glutamicibacter	0.008293217673132834	0.039973513981561654	0.0010913674372848008	0.004694065425245869
+Bacteria;Chloroflexota;Anaerolineae;RBG-13-54-9;;	0.0	0.0	0.00043039842597147074	0.0
+Bacteria;Actinomycetota;Actinobacteria;Micrococcales;AKAU3644;	0.0	0.0	0.0	0.00012760566204551876
+Bacteria;Bacillota;Negativicutes;Veillonellales-Selenomonadales;Selenomonadaceae;Selenomonas	0.0004408750774510271	0.0	0.0	5.4688140876650896e-05
+Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Paludibacteraceae;	0.0	0.0	0.0	0.00034635822555212234
+Bacteria;Bacillota;Bacilli;Erysipelotrichales;Erysipelatoclostridiaceae;Sharpea	0.00013107096897192698	0.0003769164162379667	0.0	0.0004192757467209902
+Bacteria;Actinomycetota;Acidimicrobiia;Microtrichales;Iamiaceae;Aquihabitans	0.00030980410847910016	0.0	0.0	0.0
+Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Filobacterium	0.0	0.0	0.0	0.001075533437240801
+Bacteria;Bacillota;Clostridia;Lachnospirales;Lachnospiraceae;Oribacterium	0.0	0.0	0.0	5.4688140876650896e-05
+Bacteria;Fusobacteriota;Fusobacteriia;Fusobacteriales;Leptotrichiaceae;Leptotrichia	0.0007030170153948811	0.0	0.0	0.0
+Bacteria;Chlamydiota;Chlamydiia;Chlamydiales;Parachlamydiaceae;Candidatus Protochlamydia	0.0	0.0	0.00024594195769798326	0.0
+Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Aquamicrobium	0.0021805443019875127	0.00027504711455202975	0.0	0.004037807734726058
+Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Niastella	0.0	0.0	0.00046114117068371866	0.0
+Bacteria;Bacillota;Clostridia;Lachnospirales;Lachnospiraceae;Lachnospira	0.0	0.00010186930168593694	0.0	0.0
+Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;	0.00013107096897192698	0.0	0.0	0.0
+Bacteria;Bacillota;Clostridia;Oscillospirales;Ruminococcaceae;Acutalibacter	0.0	0.00012224316202312434	0.0	0.0
+Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Flaviaestuariibacter	5.957771316905772e-05	0.0	0.0	0.0
+Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Alkanindiges	0.0	0.0	0.00010759960649286768	0.00018229380292216965
+Bacteria;Bacteroidota;Bacteroidia;Cytophagales;Cyclobacteriaceae;Lunatibacter	0.0	0.0	0.0	0.00010026159160719331
+Bacteria;Gemmatimonadota;Longimicrobiia;Longimicrobiales;Longimicrobiaceae;	7.149325580286926e-05	0.0	0.0	0.0
+Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia-Shigella	0.007888089223583241	0.0024550501706310803	0.003750614854894245	0.00312633872011521
+Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Rhizorhapis	0.0009532434107049235	0.00038710334640656036	0.0	0.0007565192821270041
+Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Intrasporangiaceae;Ornithinimicrobium	0.0006672703874934465	0.0004176641369123415	0.0	8.203221131497634e-05
+Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Intrasporangiaceae;Ornithinicoccus	0.0003693818216481579	0.0	0.0	0.0
+Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Beijerinckiaceae;Microvirga	0.0	0.0	0.00033817019183472703	0.0
+Bacteria;Bacillota;Bacilli;Lactobacillales;Carnobacteriaceae;Granulicatella	0.0	0.00032598176539499823	0.00015371372356123955	0.0
+Bacteria;Bdellovibrionota;Oligoflexia;Oligoflexales;Oligoflexaceae;Oligoflexus	0.0006196082169582003	0.0	0.0	0.0
+Bacteria;Bacillota;Bacilli;Staphylococcales;Staphylococcaceae;Macrococcus	0.00034555073638053475	0.0	0.005764264633546483	0.0
+Bacteria;Actinomycetota;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Collinsella	0.006267575425384872	0.008180104925380736	7.685686178061978e-05	0.000510422648182075
+Bacteria;Bacillota;Clostridia;Peptostreptococcales-Tissierellales;Anaerovoracaceae;Hornefia	0.0	0.00028523404472062346	0.0	0.00017317911277606117
+Bacteria;Bacillota;Clostridia;Lachnospirales;Lachnospiraceae;[Eubacterium] ventriosum group	0.0	0.0002037386033718739	0.0	0.0
+Bacteria;Thermodesulfobacteriota;Desulfuromonadia;Bradymonadales;Bradymonadaceae;Bradymonas	0.0	0.0	0.0	2.7344070438325448e-05
